@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Arcana for Hugo</title>
-    <link>https://example.org/posts/</link>
-    <description>Recent content in Posts on Arcana for Hugo</description>
+    <title>example on Arcana for Hugo</title>
+    <link>https://example.org/tags/example/</link>
+    <description>Recent content in example on Arcana for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Untitled. All rights reserved</copyright>
-    <lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/example/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Sixth Thing</title>
       <link>https://example.org/posts/sixth/</link>
@@ -55,35 +55,6 @@ Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</
       
       <guid>https://example.org/posts/first/</guid>
       <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
-    </item>
-    
-    <item>
-      <title>Hello, World!</title>
-      <link>https://example.org/posts/hello-world/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/posts/hello-world/</guid>
-      <description>Hello World! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non lorem diam. Quisque vulputate nibh sodales eros pretium tincidunt. Aenean porttitor efficitur convallis. Nulla sagittis finibus convallis. Phasellus in fermentum quam, eu egestas tortor. Maecenas ac mollis leo. Integer maximus eu nisl vel sagittis.
-Suspendisse facilisis, mi ac scelerisque interdum, ligula ex imperdiet felis, a posuere eros justo nec sem. Nullam laoreet accumsan metus, sit amet tincidunt orci egestas nec.</description>
-    </item>
-    
-    <item>
-      <title>Test1</title>
-      <link>https://example.org/posts/test3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/posts/test3/</guid>
-      <description>Test2</description>
-    </item>
-    
-    <item>
-      <title>The Fifth Thing</title>
-      <link>https://example.org/posts/fifth/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.org/posts/fifth/</guid>
-      <description>Editing the site!
 Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
     </item>
     

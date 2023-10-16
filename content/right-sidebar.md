@@ -8,7 +8,7 @@ image_alt: "Hello!"
 tags: ["examples", "content", "sidebar"]
 sidebar_right: sidebar1
 ---
-Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus.
+RIGHT SIDEBAR Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus.
 Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat.
 Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi
 consequat etiam lorem ipsum dolor sit amet nullam.
