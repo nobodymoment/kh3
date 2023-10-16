@@ -5,16 +5,16 @@
     <loc>https://example.org/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://example.org/counseling-services/</loc>
+  </url><url>
+    <loc>https://example.org/counseling-services/couples/</loc>
+  </url><url>
+    <loc>https://example.org/services/overview/</loc>
+  </url><url>
+    <loc>https://example.org/cranial-sacral-therapy/</loc>
+  </url><url>
     <loc>https://example.org/posts/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.org/left-sidebar/</loc>
-  </url><url>
-    <loc>https://example.org/right-sidebar/</loc>
-  </url><url>
-    <loc>https://example.org/two-sidebar/</loc>
-  </url><url>
-    <loc>https://example.org/no-sidebar/</loc>
   </url><url>
     <loc>https://example.org/tags/duis-neque/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
@@ -29,7 +29,10 @@
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/tags/lorem-ipsum/</loc>
-    <lastmod>2020-01-04T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://example.org/posts/fifth/</loc>
+    <lastmod>2020-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://example.org/posts/fourth/</loc>
     <lastmod>2020-01-04T00:00:00+00:00</lastmod>
@@ -43,6 +46,16 @@
     <loc>https://example.org/posts/first/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://example.org/left-sidebar/</loc>
+  </url><url>
+    <loc>https://example.org/no-sidebar/</loc>
+  </url><url>
+    <loc>https://example.org/right-sidebar/</loc>
+  </url><url>
+    <loc>https://example.org/services/individuals/</loc>
+  </url><url>
+    <loc>https://example.org/two-sidebar/</loc>
+  </url><url>
     <loc>https://example.org/tags/content/</loc>
   </url><url>
     <loc>https://example.org/tags/examples/</loc>
@@ -52,7 +65,5 @@
     <loc>https://example.org/tags/sidebar/</loc>
   </url><url>
     <loc>https://example.org/posts/test3/</loc>
-  </url><url>
-    <loc>https://example.org/posts/fifth/</loc>
   </url>
 </urlset>

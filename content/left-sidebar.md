@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Left Sidebar"
 description: "Sidebar on the left, content on the right."
 menu: main
@@ -28,4 +28,4 @@ quis hendrerit porttitor, sapien tortor viverra magna, sit amet rhoncus nisl lac
 Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt. Mauris dolor urna,
 fringilla vel malesuada ac, dignissim eu mi. Praesent mollis massa ac nulla pretium pretium.
 Maecenas tortor mauris, consectetur pellentesque dapibus eget, tincidunt vitae arcu.
-Vestibulum purus augue, tincidunt sit amet iaculis id, porta eu purus.
+Vestibulum purus augue, tincidunt sit amet iaculis id, porta eu purus. -->

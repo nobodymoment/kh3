@@ -1,45 +1,40 @@
 [[main]]
-    name = "Dropdown"
+    name = "Counseling Services"
+    url = "/counseling-services/"
     weight = 30
 [[main]]
-    parent = "Dropdown"
-    name = "Lorem dolor"
+    parent = "Counseling Services"
+    name = "Couples"
+    url = "/counseling-services/couples"
     weight = 31
 [[main]]
-    parent = "Dropdown"
-    name = "Magna Phasellus"
+    parent = "Counseling Services"
+    name = "Individuals"
+    url = "/counseling-services/individuals"
     weight = 32
+
 [[main]]
-    parent = "Dropdown"
-    name = "Etiam sed tempus"
-    weight = 33
+    name = "Cranial Sacral Therapy"
+    url = "/cranial-sacral-therapy/"
+    weight = 41
+
 [[main]]
-    parent = "Dropdown"
-    name = "Submenu"
-    weight = 34
+    name = "Pilates"
+    url = "/pilates/"
+    weight = 50
+
 [[main]]
-    parent = "Submenu"
-    name = "Lorem dolor"
-    identifier = "sub-lorem"
-    weight = 35
+    parent = "Pilates"
+    name = "Workshops"
+    url = "/pilates/workshops"
+    weight = 51
 [[main]]
-    parent = "Submenu"
-    name = "Phasellus magna"
-    weight = 36
+    parent = "Pilates"
+    name = "Privates"
+    url = "/pilates/privates"
+    weight = 52
 [[main]]
-    parent = "Submenu"
-    name = "Magna phasellus"
-    weight = 37
-[[main]]
-    parent = "Submenu"
-    name = "Etiam nisl"
-    weight = 38
-[[main]]
-    parent = "Submenu"
-    name = "Veroeros feugiat"
-    identifier = "sub-veroeros"
-    weight = 39
-[[main]]
-    parent = "Dropdown"
-    name = "Veroeros feugiat"
-    weight = 40
+    parent = "Pilates"
+    name = "Mentoring Groups"
+    url = "/pilates/mentoring"
+    weight = 53

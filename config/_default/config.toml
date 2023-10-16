@@ -1,8 +1,8 @@
 baseURL = "https://example.org/"
 languageCode = "en-us"
-title = "Arcana for Hugo"
+title = "Kim Haroche"
 theme = "hugo-arcana"
-copyright = "© Untitled. All rights reserved"
+copyright = "© Kim Haroche, Stillness in Movement LLC, 2024"
 
 [taxonomies]
     tag = "tags"
@@ -27,61 +27,26 @@ copyright = "© Untitled. All rights reserved"
         title = "LinkedIn"
         icon = "fa-linkedin-in"
         url = "#"
-    [[params.social]]
-        title = "Creative Commons"
-        icon = "fa-creative-commons"
-        url = "https://creativecommons.org/"
-
 
     [params.footer]
 
         [[params.footer.links]]
-            header = "Links to Stuff"
+            header = "Explore"
         [[params.footer.links.links]]
-            title = "Mattis et quis rutrum"
-            url = "#"
+            title = "Counseling Therapy"
+            url = "/counseling-services/"
         [[params.footer.links.links]]
-            title = "Suspendisse amet varius"
-            url = "#"
+            title = "Cranial Sacral Therapy"
+            url = "/cranial-sacral-therapy/"
         [[params.footer.links.links]]
-            title = "Sed et dapibus quis"
-            url = "#"
+            title = "Pilates"
+            url = "/pilates/"
         [[params.footer.links.links]]
-            title = "Rutrum accumsan dolor"
-            url = "#"
+            title = "About"
+            url = "/about/"
         [[params.footer.links.links]]
-            title = "Mattis rutrum accumsan"
-            url = "#"
-        [[params.footer.links.links]]
-            title = "Suspendisse varius nibh"
-            url = "#"
-        [[params.footer.links.links]]
-            title = "Sed et dapibus mattis"
-            url = "#"
-
-        [[params.footer.links]]
-            header = "More Links to Stuff"
-        [[params.footer.links.links]]
-            title = "Duis neque nisi dapibus"
-            url = "#"
-        [[params.footer.links.links]]
-            title = "Sed et dapibus quis"
-            url = "#"
-        [[params.footer.links.links]]
-            title = "Rutrum accumsan sed"
-            url = "#"
-        [[params.footer.links.links]]
-            title = "Mattis et sed accumsan"
-            url = "#"
-        [[params.footer.links.links]]
-            title = "Duis neque nisi sed"
-            url = "#"
-        [[params.footer.links.links]]
-            title = "Sed et dapibus quis"
-            url = "#"
-        [[params.footer.links.links]]
-            title = "Rutrum amet varius"
-            url = "#"
+            title = "Contact"
+            url = "/contact/"
 
         [params.footer.contact_form]
             enabled = true

@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>lorem ipsum on Arcana for Hugo</title>
+    <title>lorem ipsum on Kim Haroche</title>
     <link>https://example.org/tags/lorem-ipsum/</link>
-    <description>Recent content in lorem ipsum on Arcana for Hugo</description>
+    <description>Recent content in lorem ipsum on Kim Haroche</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Untitled. All rights reserved</copyright>
-    <lastBuildDate>Sat, 04 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/lorem-ipsum/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© Kim Haroche, Stillness in Movement LLC, 2024</copyright>
+    <lastBuildDate>Sun, 05 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.org/tags/lorem-ipsum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Fifth Thing</title>
+      <link>https://example.org/posts/fifth/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/fifth/</guid>
+      <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
+    </item>
+    
     <item>
       <title>The Fourth Thing</title>
       <link>https://example.org/posts/fourth/</link>
