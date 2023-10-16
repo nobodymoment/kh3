@@ -4,7 +4,7 @@ description: "Couples counseling description"
 url: counseling-services/couples
 menu: main
 weight: 31
-image: images/couples.jpg
+image: images/banner.jpg
 image_alt: "Hello!"
 tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar1

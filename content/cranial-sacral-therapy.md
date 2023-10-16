@@ -16,7 +16,7 @@ physically—in a way that other
 therapies cannot."
 menu: main
 weight: 79
-image: images/cranial.jpg
+image: images/banner.jpg
 image_alt: "Hello!"
 tags: ["examples", "content"]
 ---

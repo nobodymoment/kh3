@@ -1,4 +1,4 @@
-baseURL = "https://example.org/"
+baseURL = "https://silver-caramel-8fcce4.netlify.app/"
 languageCode = "en-us"
 title = "Arcana for Hugo"
 theme = "hugo-arcana"
