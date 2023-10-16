@@ -38,3 +38,11 @@
     name = "Mentoring Groups"
     url = "/pilates/mentoring"
     weight = 53
+[[main]]
+    name = "About"
+    url = "/about/"
+    weight = 70
+[[main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 80
