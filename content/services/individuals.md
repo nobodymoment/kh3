@@ -4,7 +4,7 @@ description: "Individual therapy description."
 menu: main
 url: counseling-services/individuals
 weight: 32
-image: images/individuals.jpg
+image: images/banner.jpg
 image_alt: "Hello!"
 tags: ["examples", "content"]
 ---
