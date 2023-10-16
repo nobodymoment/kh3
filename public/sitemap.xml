@@ -9,9 +9,21 @@
   </url><url>
     <loc>https://example.org/counseling-services/couples/</loc>
   </url><url>
-    <loc>https://example.org/services/overview/</loc>
+    <loc>https://example.org/counseling-services/individuals/</loc>
+  </url><url>
+    <loc>https://example.org/pilates/</loc>
+  </url><url>
+    <loc>https://example.org/pilates/workshops/</loc>
+  </url><url>
+    <loc>https://example.org/pilates/privates/</loc>
+  </url><url>
+    <loc>https://example.org/pilates/mentoring/</loc>
+  </url><url>
+    <loc>https://example.org/about/</loc>
   </url><url>
     <loc>https://example.org/cranial-sacral-therapy/</loc>
+  </url><url>
+    <loc>https://example.org/contact/</loc>
   </url><url>
     <loc>https://example.org/posts/</loc>
     <lastmod>2020-01-06T00:00:00+00:00</lastmod>
@@ -51,8 +63,6 @@
     <loc>https://example.org/no-sidebar/</loc>
   </url><url>
     <loc>https://example.org/right-sidebar/</loc>
-  </url><url>
-    <loc>https://example.org/services/individuals/</loc>
   </url><url>
     <loc>https://example.org/two-sidebar/</loc>
   </url><url>

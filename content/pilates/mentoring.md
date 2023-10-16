@@ -3,7 +3,7 @@ title: "Mentoring Groups"
 description: "Mentoring groups description"
 menu: pilates
 weight: 53
-image: images/banner.jpg
+image: images/mentoring.jpg
 image_alt: "Hello!"
 tags: ["examples", "content", "sidebar"]
 sidebar_right: sidebar2

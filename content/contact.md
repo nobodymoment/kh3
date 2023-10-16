@@ -3,7 +3,7 @@ title: "Contact"
 description: "Contact description"
 menu: main
 weight: 80
-image: images/banner.jpg
+image: images/contact.jpg
 image_alt: "Hello!"
 tags: ["examples", "content"]
 ---

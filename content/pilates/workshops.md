@@ -3,7 +3,7 @@ title: "Workshops"
 description: "See below for details on upcoming workshops."
 menu: main
 weight: 51
-image: images/banner.jpg
+image: images/workshops.jpg
 image_alt: "Hello!"
 tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar1

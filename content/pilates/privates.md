@@ -3,7 +3,7 @@ title: "Privates"
 description: "Private instruction description"
 menu: pilates
 weight: 52
-image: images/banner.jpg
+image: images/private.jpg
 image_alt: "Hello!"
 tags: ["examples", "content", "sidebar"]
 sidebar_left: sidebar1

@@ -3,7 +3,7 @@ title: "About"
 description: "As well as a biodynamic cranial sacral therapist and a student of meditation and consciousness for thirty years, Kim is a second generation, Master Pilates Teacher.  Kim began her exploration of Pilates in her late teens under the loving and firm hands of Kathy Grant who invited Kim to be her assistant and substitute and trained her in the art of teaching the method.  Kim has been teaching Pilates since 1979.  Her teaching credits include Kathy Grant’s Gym at Henri Bendels in New York City and The Pilates Center in Boulder where she was on staff as a Senior Teacher, Presenter and Tester of The Pilates Center Training Program and Masters Program."
 menu: main
 weight: 79
-image: images/banner.jpg
+image: images/about.jpg
 image_alt: "Hello!"
 tags: ["examples", "content"]
 ---

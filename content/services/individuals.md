@@ -3,8 +3,8 @@ title: "Individuals"
 description: "Individual therapy description."
 menu: main
 url: counseling-services/individuals
-weight: 80
-image: images/banner.jpg
+weight: 32
+image: images/individuals.jpg
 image_alt: "Hello!"
 tags: ["examples", "content"]
 ---
