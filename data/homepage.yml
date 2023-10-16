@@ -26,9 +26,8 @@ items:
         Biodynamic Cranial Sacral Therapy benefits people and their animal friends. It can regulate the nervous system and aid in major life transitions. As a long-time practitioner I regularly witness results and relief in clients.
         I have seen Cranial Sacral Therapy reach and integrate areas in need of realignment - mentally, emotionally, and physically — in a way that other therapies cannot.
   - type: heading
-    heading: A gigantic heading you can use for whatever
-    # contents: With a much smaller subtitle hanging out just below it
-  # - type: posts
+    heading: "a client description of some qualitative experience of your work..."
+    contents: ""
   #   #heading: Recent Posts
   #   content_type: posts
   #   max: 4
